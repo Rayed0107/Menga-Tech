@@ -1,0 +1,7 @@
+{
+  "name": "MENGA - Plateforme Intelligente de Gestion du Sang",
+  "description": "Une solution digitale révolutionnaire pour la gestion des banques de sang en Afrique, intégrant intelligence prédictive, mode urgence vitale et suivi en temps réel des stocks.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
